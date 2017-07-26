@@ -8,6 +8,7 @@ Created on Jul 25, 2017
 if __name__ == '__main__':
     print("今天是个好天气！");
     print("'今天'是个好天气！");
+    print('"今天"是个好天气！');
     print("what's your name?");
     name='owen sun';
     print(name.upper());
