@@ -39,5 +39,12 @@ if __name__ == '__main__':
     
     print(student);
     
+    student.pop();
+    
+    print(student);
+    
+    student.pop(0);
+    
+    print(student);    
     
     
